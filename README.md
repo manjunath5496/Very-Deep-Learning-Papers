@@ -50,6 +50,20 @@ Backpropagation Without Storing Activations</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Very-Deep-Learning-Papers/blob/master/vd(25).pdf" style="text-decoration:none;">Augmented Neural ODEs</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Very-Deep-Learning-Papers/blob/master/vd(26).pdf" style="text-decoration:none;">ResNet with one-neuron hidden layers is a Universal Approximator</a></li>
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Very-Deep-Learning-Papers/blob/master/vd(27).pdf" style="text-decoration:none;">Very Deep Convolutional Networks for Large-Scale Image Recognition</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Very-Deep-Learning-Papers/blob/master/vd(28).pdf" style="text-decoration:none;">Squeezed Very Deep Convolutional Neural Networks for Text Classification</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Very-Deep-Learning-Papers/blob/master/vd(29).pdf" style="text-decoration:none;">Review of deep learning: concepts, CNN architectures, challenges, applications, future directions </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Very-Deep-Learning-Papers/blob/master/vd(30).pdf" style="text-decoration:none;">Training Very Deep Networks</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Very-Deep-Learning-Papers/blob/master/vd(31).pdf" style="text-decoration:none;">Do Deep Nets Really Need to be Deep?</a></li> 
+  
+  
+  
  </ul>
    
    
